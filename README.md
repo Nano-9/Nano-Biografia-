@@ -6,7 +6,7 @@
 # Um pouco sobre mim:
 - Meu nome: Lucas Silva
 - Minha idade: 21 Anos
-- Apaixonado por: Tecnologia, resoluções de problemas usando a programação, automação de programas, filmes e séries
+- Apaixonado por: Tecnologia, resoluções de problemas usando a programação e automação de programas. filmes e séries
 - Linguagens: Eu sou apaixonado pela linguagem Python
 - Fale comigo pelo: [Whatsapp](https://wa.me/5531986802198) | [Facebook](https://www.facebook.com/Walker.Lxrd/) | [Instagram](https://www.instagram.com/lbss_x/)
 
