@@ -26,6 +26,7 @@
 - Web Scraping com Python (YouTube e Udemy)
 - Automação (Youtube)
 - Modularização
+- Banco de dados SQLite3
 
 
 
