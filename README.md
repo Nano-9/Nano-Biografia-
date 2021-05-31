@@ -15,7 +15,7 @@
 - Meu foco é poder ajudar as pessoas desenvolvendo programas que elas precisem e também a automação de programas!
 - Gosto de sempre estar estudando a maravilhosa linguagem python, quero ser capaz de criar todo tipo de programa que as pessoas estiverem precisando
 
-# Tempo de estudo:
+### Tempo de estudo:
 - Estudo Python há 1 ano (dei uma pausa de 4 meses por motivos pessoais mas já voltei)
 
 ### Cursos que fiz em Python:
