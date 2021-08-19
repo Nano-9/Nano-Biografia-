@@ -20,7 +20,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 
 ### Experiência com:
 
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 <hr>
 
 ### Descrição do meu objetivo:
