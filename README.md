@@ -17,6 +17,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 
 ### Experiência com:
 <a href="https://github.com/lucas-Dk" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" width="40" heigth="40"/>
+<a href="https://about.gitlab.com" target="_blank"/> <img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="Gitlab" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
 
