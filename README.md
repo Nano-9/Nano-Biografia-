@@ -33,7 +33,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 - Estudo Python há 1 ano (dei uma pausa de 4 meses por motivos pessoais mas já voltei)
 <hr>
 
-### Cursos que fiz em Python 📚:
+### Cursos que fiz sobre Python 📚:
 
 - [x] Curso de Python do Gustavo Guanabara no YouTube (foi o meu início)
 - [x] Curso de Python na Udemy (onde eu aprimorei meus conhecimentos)
