@@ -1,7 +1,12 @@
 <h1 align="center"
     <p>
 Olá a todos! Sejam bem vindos ao meu perfil! 👋
+<br>
+<br>
+<p align="center">Visitantes:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/lucas-Dk/count.svg"/></p>
    </p><hr>
+   
 </h1>
 
 ![stats about my repo lucas-Dk](https://github-readme-stats.vercel.app/api?username=lucas-Dk&show_icons=true&theme=radical)
@@ -13,6 +18,16 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 - Minha idade: 21 Anos
 - Apaixonado por: Tecnologia, resoluções de problemas usando a programação e automação de programas. filmes e séries
 - Linguagens: Eu sou apaixonado pela linguagem Python
+- Estudando: Sim, eu fico a maior parte do meu tempo estudando, buscando aprender novas tecnologias e saídas diferentes
+<hr>
+
+<b><h3><p align="center">Projeto que estou *criando* atualmente:</b></h3></p>
+
+<h4 align="center">
+    <img src="https://uploaddeimagens.com.br/images/003/451/631/original/Assistente.png?1632757995" width="300" heigth="300"/>
+    <p>Djenny Assistente Virtual</p>
+    <p>Tempo de desenvolvimento: Estou desenvolvendo faz 3 semanas</p>
+    <p>Comandos adicionados até agora: 40 comandos</p>
 <hr>
 
 ### Experiência com:
