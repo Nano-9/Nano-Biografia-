@@ -27,7 +27,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
     <img src="https://uploaddeimagens.com.br/images/003/451/631/original/Assistente.png?1632757995" width="300" heigth="300"/>
     <p>Djenny Assistente Virtual</p>
     <p>Tempo de desenvolvimento: Estou desenvolvendo faz 3 semanas</p>
-    <p>Comandos adicionados até agora: 40 comandos</p>
+    <p>Comandos adicionados até agora: 70 comandos</p>
 <hr>
 
 ### Experiência com:
