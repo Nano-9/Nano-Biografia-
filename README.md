@@ -14,8 +14,6 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
 # Um pouco sobre mim:
-- Meu nome: Lucas Silva
-- Minha idade: 21 Anos
 - Apaixonado por: Tecnologia, resoluções de problemas usando a programação e automação de programas. filmes e séries
 - Linguagens: Eu sou apaixonado pela linguagem Python
 - Estudando: Sim, eu fico a maior parte do meu tempo estudando, buscando aprender novas tecnologias e saídas diferentes
