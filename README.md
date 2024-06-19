@@ -43,7 +43,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 <hr>
 
 ### Tempo de estudo ⏲️:
-- Estudo Python há 1 ano (dei uma pausa de 4 meses por motivos pessoais mas já voltei)
+- Estudo Python há 4 anos (dei uma pausa de 4 meses por motivos pessoais mas já voltei)
 <hr>
 
 ### Cursos que fiz sobre Python 📚:
