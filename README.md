@@ -71,5 +71,5 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 <a href="https://www.linkedin.com/in/lucas-silva-32058421a/" target="_blank"> <img src="https://brintonvision.com/wp-content/uploads/2016/05/linkedin-black.png" alt="Linkedin" width="40" heigth="40"/>
 <hr>
 <h3 align="center">
-    <p><u> Readme feito por lucas-Dk! </u></p>
+    <p><u> Readme feito por Nano! </u></p>
 </h3>
