@@ -64,12 +64,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 
 <h3 align="center"/>
 <a href="https://t.me/rdzin9" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/telegram-desktop-icon-2048x2048-lt9iwtrn.png" alt="Telegram" width="40" heigth="40"/>
-<a href="https://wa.me/5531986802198" target="_blank"> <img src="https://icon-library.com/images/whatsapp-png-icon/whatsapp-png-icon-0.jpg" alt="Whatsapp" width="40" heigth="40"/>
-<a href="https://www.facebook.com/Walker.Lxrd/" target="_blank"> <img src="https://www.iconninja.com/files/424/88/63/facebook-black-icon.png" alt="Facebook" width="40" heigth="40"/>
-<a href="https://www.instagram.com/lbss_x/" target="_blank"> <img src="https://freelogopng.com/images/all_img/1658588720instagram-logo-black-and-white.png" alt="Instagram" width="40" heigth="40"/>
-<a href="https://mail.google.com/mail/u/0/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/gmail-icon-logo-black-and-white.png" alt="Gmail" width="40" heigth="40"/>
-<a href="https://www.linkedin.com/in/lucas-silva-32058421a/" target="_blank"> <img src="https://brintonvision.com/wp-content/uploads/2016/05/linkedin-black.png" alt="Linkedin" width="40" heigth="40"/>
-<hr>
+
 <h3 align="center">
     <p><u> Readme feito por Nano! </u></p>
 </h3>
