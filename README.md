@@ -59,7 +59,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 
 <hr>
 <h3 align="center">
-    <p><u> Fale comigo por uma das minhas redes sociais abaixo: </u></p>
+    <p><u> Fale comigo pela minha rede social abaixo: </u></p>
 </h3>
 
 <h3 align="center"/>
