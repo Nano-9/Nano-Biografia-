@@ -9,10 +9,12 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
    
 </h1>
 
+<h1 align="center">
+
 ![stats about my repo lucas-Dk](https://github-readme-stats.vercel.app/api?username=nano-9&show_icons=true&theme=radical)
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
-
+</h1>
 # Um pouco sobre mim:
 - Apaixonado por: Tecnologia, resoluções de problemas usando a programação e automação de programas. filmes e séries
 - Linguagens: Eu sou apaixonado pela linguagem Python
