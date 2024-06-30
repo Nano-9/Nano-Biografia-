@@ -9,7 +9,7 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
    
 </h1>
 
-![stats about my repo lucas-Dk](https://github-readme-stats.vercel.app/api?username=lucas-Dk&show_icons=true&theme=radical)
+![stats about my repo lucas-Dk](https://github-readme-stats.vercel.app/api?username=nano-9&show_icons=true&theme=radical)
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
