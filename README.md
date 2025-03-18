@@ -9,8 +9,6 @@ Olá a todos! Sejam bem vindos ao meu perfil! 👋
 
 <p align="center">TryHackMe:</p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3664408" title="profile" style='border:none;'></iframe>
-
 </h1>
 
 <h1 align="center">
